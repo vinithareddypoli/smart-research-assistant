@@ -37,7 +37,7 @@ with st.sidebar:
     st.markdown("---")
 
     st.markdown("""
-    Made by Tanishka Singh
+    Made by vinitha poli
     """)
 
 
